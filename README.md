@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>SpaceX Capstone Project - Predicting Launch Prices and First Stage Reuse</h1>
+  <h1>SpaceX Launch Analysis - Predicting Launch Prices and First Stage Reuse</h1>
   
   <h2>Project Overview</h2>
   <p>
